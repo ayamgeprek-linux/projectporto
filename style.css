@@ -419,13 +419,13 @@ body{
   }
 
   .nav-menu{
-width:100%;
+
 
     display:flex;
     justify-content:center;
     flex-wrap:wrap;
 
-    gap:8px;
+    
 
     padding:6px;
 }

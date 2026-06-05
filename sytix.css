@@ -158,17 +158,28 @@ body{
     gap:20px;
   }
 
-  .nav-menu{
-    width:100%;
+ .nav-menu{
+
+
+    display:flex;
     justify-content:center;
     flex-wrap:wrap;
+
+  
+
+    padding:6px;
+  }
+
+  .nav-menu a{
+    padding:10px 16px;
+    font-size:13px;
   }
 
   .contact-btn{
-    width:100%;
-    text-align:center;
+    width:auto;
+    padding:10px 20px;
+    font-size:13px;
   }
-
   .project-detail{
     padding:20px;
   }

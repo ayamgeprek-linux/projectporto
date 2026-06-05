@@ -244,10 +244,15 @@ bottom:50px;
   }
 
   .nav-menu{
-    width:100%;
+
+
+    display:flex;
     justify-content:center;
     flex-wrap:wrap;
-    gap:8px;
+
+  
+
+    padding:6px;
   }
 
   .nav-menu a{
@@ -258,7 +263,9 @@ bottom:50px;
   .contact-btn{
     width:auto;
     padding:10px 20px;
+    font-size:13px;
   }
+  
 
   /* CARD */
 

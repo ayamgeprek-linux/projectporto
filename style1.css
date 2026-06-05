@@ -274,7 +274,7 @@ top: 40PX;
 }
 
 /* RESPONSIVE */
-@/* ========================= */
+/* ========================= */
 /* TABLET */
 /* ========================= */
 
@@ -344,13 +344,13 @@ top: 40PX;
   }
 
   .nav-menu{
-    width:100%;
+
 
     display:flex;
     justify-content:center;
     flex-wrap:wrap;
 
-    gap:8px;
+  
 
     padding:6px;
   }
