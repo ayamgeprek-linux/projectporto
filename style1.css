@@ -321,7 +321,8 @@ top: 40PX;
 
   .card-image1 img{
     position:relative;
-    left:10px;
+    right:12px;
+    bottom:10px;
     width:75%;
   }
 
