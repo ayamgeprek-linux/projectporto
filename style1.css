@@ -322,7 +322,7 @@ top: 40PX;
   .card-image1 img{
     position:relative;
     left:12px;
-    bottom:1000px;
+    margin-bottom:100px;
     width:75%;
   }
 
