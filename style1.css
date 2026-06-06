@@ -320,7 +320,8 @@ top: 40PX;
   }
 
   .card-image1 img{
-    position:static;
+    position:relative;
+    right:10px;
     width:75%;
   }
 
